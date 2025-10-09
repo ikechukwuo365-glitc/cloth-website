@@ -23,6 +23,7 @@ header {
   padding: 15px 30px;
   position: sticky;
   top: 0;
+  z-index: 100;
 }
 header .logo {
   font-size: 24px;
